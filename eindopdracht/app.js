@@ -84,51 +84,63 @@ ctx.beginPath();
 ctx.moveTo(815,415);
 ctx.lineTo(815,445);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(815,465);
 ctx.lineTo(815,495);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(815,515);
 ctx.lineTo(815,545);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(815,565);
 ctx.lineTo(815,595);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(800,465);
 ctx.lineTo(770,465);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(750,465);
 ctx.lineTo(720,465);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(700,465);
 ctx.lineTo(670,465);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(650,465);
 ctx.lineTo(620,465);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(600,465);
 ctx.lineTo(570,465);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(550,465);
 ctx.lineTo(520,465);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(500,465);
 ctx.lineTo(470,465);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(615,480);
 ctx.lineTo(615,500);
 ctx.closePath();
-ctx.stroke();ctx.beginPath();
+ctx.stroke();
+ctx.beginPath();
 ctx.moveTo(615,520);
 ctx.lineTo(615,540);
 ctx.closePath();
@@ -379,7 +391,7 @@ ctx.fillRect(670,532,15,20);
 
 //boom 2
 ctx.beginPath();
-ctx.fillStyle = "green"
+ctx.fillStyle = "green";
 ctx.moveTo(730,530);
 ctx.lineTo(765,530);
 ctx.lineTo(747,500);
@@ -391,7 +403,7 @@ ctx.fillRect(740,532,15,20);
 
 //boom 3
 ctx.beginPath();
-ctx.fillStyle = "green"
+ctx.fillStyle = "green";
 ctx.moveTo(845,348);
 ctx.lineTo(880,348);
 ctx.lineTo(863,318);
@@ -403,7 +415,7 @@ ctx.fillRect(855,350,15,20);
 
 //boom 4
 ctx.beginPath();
-ctx.fillStyle = "green"
+ctx.fillStyle = "green";
 ctx.moveTo(845,438);
 ctx.lineTo(880,438);
 ctx.lineTo(863,408);
@@ -415,7 +427,7 @@ ctx.fillRect(855,440,15,20);
 
 //boom 5
 ctx.beginPath();
-ctx.fillStyle = "green"
+ctx.fillStyle = "green";
 ctx.moveTo(845,538);
 ctx.lineTo(880,538);
 ctx.lineTo(863,508);
@@ -474,8 +486,8 @@ ctx.lineTo(1075,580);
 ctx.moveTo(1150,465);
 ctx.lineTo(1075,410);
 ctx.moveTo(1120,445);
-ctx.lineTo(1115,400);
+ctx.lineTo(1115,390);
 ctx.moveTo(1120,445);
-ctx.lineTo(1070,450);
+ctx.lineTo(1060,450);
 ctx.closePath();
 ctx.stroke();
